@@ -1,5 +1,6 @@
 class sample
 {
+void fun();
 }
 class Demo
 {
